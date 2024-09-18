@@ -2,11 +2,11 @@
 <!-- for the API project that you are implementing. -->
 
 
-# `<name of application here>`
+# `Epic Housing`
 
 ## Database Schema Design
 
-![alt text](image.png)
+![alt text](/images/dbSchema.png)
 
 ## API Documentation
 
