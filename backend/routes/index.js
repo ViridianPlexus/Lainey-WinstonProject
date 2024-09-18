@@ -17,7 +17,6 @@ router.get("/api/csrf/restore", (req, res) => {
   });
 });
 
-module.exports = router;
 
 
 // Make sure to test this setup by creating the following test route in the
@@ -29,3 +28,5 @@ router.post('/test', function(req, res) {
   });
 
   
+
+  module.exports = router;
